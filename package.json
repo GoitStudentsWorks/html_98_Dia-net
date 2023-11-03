@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Hephaestus_IT/",
+    "build": "vite build --base=/html_98_Dia-net/",
     "preview": "vite preview"
   },
   "devDependencies": {
